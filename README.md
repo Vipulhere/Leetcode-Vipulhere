@@ -33,7 +33,6 @@ I maintain & solve every day. Feel free to check my progress and track consisten
 - ✅ Solve at least **1 problem per day**.
 - ✅ Improve problem-solving speed and accuracy.
 - ✅ Master **DSA concepts** with hands-on practice.
-- ✅ Participate in **LeetCode contests** regularly.
 - ✅ Share optimized solutions and explanations.
 
 ## 🤝 Contributing
