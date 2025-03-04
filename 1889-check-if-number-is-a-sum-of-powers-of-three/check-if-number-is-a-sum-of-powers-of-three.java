@@ -1,5 +1,6 @@
 class Solution {
     public boolean checkPowersOfThree(int n) {
+        //github -- vipulhere
         while (n > 0) {
             if (n % 3 == 2) {
                 return false; // If remainder is 2, n cannot be represented as sum of distinct powers of three
