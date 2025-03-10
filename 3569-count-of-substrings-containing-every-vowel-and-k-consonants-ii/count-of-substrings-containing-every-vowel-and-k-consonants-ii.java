@@ -1,7 +1,6 @@
-import java.util.*;
-
 class Solution {
     public long countOfSubstrings(String word, int k) {
+        //github -- vipulhere
         int n = word.length();
         if (n < 5) return 0; // Not enough length to have all 5 vowels
 
